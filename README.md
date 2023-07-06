@@ -1,5 +1,5 @@
 # Landing Page Template
->https://akash-chauhan-07.github.io/landing-page-onepiece/
+>https://akash-chauhan-07.github.io/OCTANET_JULY_landing-page/
 
 The Landing Page Template by Akash Chauhan is a free HTML5/Bootstrap 4 template for everyone.
 
